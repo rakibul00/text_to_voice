@@ -1,0 +1,12 @@
+asgiref
+certifi
+charset-normalizer
+click
+Django
+gTTS
+idna
+pillow
+requests
+sqlparse
+typing_extensions
+urllib3
